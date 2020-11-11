@@ -47,4 +47,4 @@ MVC, MVVM, MVW의 공통점인 모델(Model)과 뷰(View)가 있는 것과는 �
 #### 리액트 설치 및 실행
 설치는 node.js와 yarn을 설치했다.
 셋팅 후 hello-world를 입력하는데 잘 안된다.
-![오류] (./img/hello-wolrd_error.png)
+![오류](./img/hello-wolrd_error.png)
