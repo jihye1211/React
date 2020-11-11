@@ -39,3 +39,12 @@ MVC, MVVM, MVW의 공통점 = 모델(Model) + 뷰(View)
 
 리액트는 자바스크립트 라이브러리로 사용자 인터페이스를 만드는데 사용한다.
 MVC, MVVM, MVW의 공통점인 모델(Model)과 뷰(View)가 있는 것과는 달리 리액트에서는 뷰(View)만 사용하는 라이브러리이다.
+
+
+
+<br><br>
+## 2day(11.11)
+#### 리액트 설치 및 실행
+설치는 node.js와 yarn을 설치했다.
+셋팅 후 hello-world를 입력하는데 잘 안된다.
+![오류] (./img/hello-wolrd_error.png)
