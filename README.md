@@ -77,7 +77,7 @@ hello world 실행 완료!
 #### 요소 감싸기
 컴포넌트에 여러 요소가 있다면 반드시 부모 요소 하나로 감싸야 한다.
 ex. 
-![에러](./img/.PNG)
+![에러](./img/Parsing_error_exam.PNG)
 감싸지 않으면 오류 발생(Failed to complie)
 
 > ##### 왜?
