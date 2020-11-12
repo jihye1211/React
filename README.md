@@ -50,3 +50,9 @@ MVC, MVVM, MVW의 공통점인 모델(Model)과 뷰(View)가 있는 것과는 �
 ![오류](./img/hello-world_error.PNG)
 
 피곤한 관계로 내일 이어서 하는걸로...일단 설치는 완료!
+
+<br><br>
+## 3day(11.12)
+#### 리액트 셋팅 완료
+hello world 실행 완료!
+![실행](./img/hello-world.PNG)
