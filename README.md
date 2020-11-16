@@ -144,3 +144,4 @@ x
 > * shape({name: PropTypes.string, num : PropTypes.number}): 주어진 스키마를 가진 객체
 > * any: 아무 종류
 
+![useState](./img/useState_color.PNG)
