@@ -126,3 +126,21 @@ x
 * state : 컴포넌트 내부에서 바뀔 수 있는 값
   * 클래스형 컴포넌트 state
   * 함수형 컴포넌트 useState 함수를 통해 사용하는 state
+
+> #### PropTypes 종류
+> * array : 배열
+> * arrayOf(다른 PropType): 특정 PropType으로 이루어진 배열을 의미한다.
+> * bool : true 혹은 false 값
+> * func : 함수
+> * number : 숫자
+> * object : 객체
+> * string : 문자열
+> * symbol : ES6 Symbol
+> * node : 렌더링할 수 있는 모든 것(숫자, 문자열, JSX코드 등)
+> * instanceOf(클래스) : 특정 클래스의 인스턴스
+> * oneOf(['1'],['2']) : 주어진 배열 요소 중 값 하나
+> * oneOfType([React.PropTypes.string, PropTypes.number]) : 주어진 배열 안의 종류 중 하나
+> * objectOf(React.PropTypes.number): 객체의 모든 키 값이 인자로 주어진 PropType인 객체
+> * shape({name: PropTypes.string, num : PropTypes.number}): 주어진 스키마를 가진 객체
+> * any: 아무 종류
+
